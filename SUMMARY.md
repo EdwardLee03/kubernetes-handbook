@@ -1,8 +1,13 @@
-# Summary
+
+
+Summary
+=======
+
 
 ## 前言
 
 * [序言](README.md)
+
 
 ## 云原生
 
@@ -18,6 +23,7 @@
   * [云原生编程语言Ballerina](cloud-native/cloud-native-programming-language-ballerina.md)
   * [云原生编程语言Pulumi](cloud-native/cloud-native-programming-language-pulumi.md)
 * [云原生的未来](cloud-native/the-future-of-cloud-native.md)
+
 
 ## 概念与原理
 
@@ -86,6 +92,7 @@
 * [资源调度](concepts/scheduling.md)
   * [QoS（服务质量等级）](concepts/qos.md)
 
+
 ## 用户指南
 
 * [用户指南](guide/index.md)
@@ -121,6 +128,7 @@
   * [适用于kubernetes的应用开发部署流程](guide/deploy-applications-in-kubernetes.md)
   * [迁移传统应用到Kubernetes中——以Hadoop YARN为例](guide/migrating-hadoop-yarn-to-kubernetes.md)
   * [使用StatefulSet部署用状态应用](guide/using-statefulset.md)
+
 
 ## 最佳实践
 
@@ -191,6 +199,7 @@
   * [手动升级Kubernetes集群](practice/manually-upgrade.md)
   * [升级dashboard](practice/dashboard-upgrade.md)
 
+
 ## 领域应用
 
 * [领域应用概览](usecases/index.md)
@@ -238,6 +247,7 @@
 * [边缘计算](usecases/edge-computing.md)
 * [人工智能](usecases/ai.md)
 
+
 ## 开发指南
 
 * [开发指南概览](develop/index.md)
@@ -252,6 +262,7 @@
 * [高级开发指南](develop/advance-developer.md)
 * [社区贡献](develop/contribute.md)
 * [Minikube](develop/minikube.md)
+
 
 ## 附录
 
@@ -273,3 +284,4 @@
   * [Kubernetes与云原生2017年年终总结及2018年展望](appendix/kubernetes-and-cloud-native-summary-in-2017-and-outlook-for-2018.md)
 * [Kubernetes认证服务提供商（KCSP）说明](appendix/about-kcsp.md)
 * [认证Kubernetes管理员（CKA）说明](appendix/about-cka-candidate.md)
+
